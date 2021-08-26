@@ -1,0 +1,25 @@
+{
+  "name": "shuffle--recruitment-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --no-minify --public-url . --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marypieroszkiewicz/shuffle--recruitment-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marypieroszkiewicz/shuffle--recruitment-task/issues"
+  },
+  "homepage": "https://github.com/marypieroszkiewicz/shuffle--recruitment-task#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.38.1"
+  }
+}

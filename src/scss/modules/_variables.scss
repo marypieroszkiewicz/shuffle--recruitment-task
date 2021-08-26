@@ -1,0 +1,42 @@
+// ----------------------------------------------------
+// ----- VARIABLES -----
+// ----------------------------------------------------
+
+// --- Colors ---
+$white: #fff;
+$white-lilac: #ebedf7;
+$san-marino: #5162b4;
+$blue-ribbon: #284df8;
+$lucky-point: #182370;
+$sunshade: #fe9f27;
+$whisper-blue: #e6e8f5;
+$whisper: #fdfdfe;
+$bon-joura: #dcdbdc;
+$sail: #b3daf9;
+$curious-blue: #1d80dd;
+$surf-crest: #c1e2c3;
+$apple: #3e9545;
+$egg-white: #fff7c0;
+$sea-buckthorn: #f79c32;
+$prelude: #dcb7e2;
+$seance: #81279d;
+
+// Gradient
+$bg-gradient: linear-gradient(180deg, $white-lilac 0%, $white 100%);
+$quarter-circle-gradient: linear-gradient(180deg, rgba(230,232,245,1) 0%, rgba(253,253,254,1) 100%);
+$triangle-gradient: linear-gradient(180deg, rgba(230,232,245,1) 0%, rgba(250,250,253,1) 100%);
+$trapezoid-gradient: linear-gradient(180deg, rgba(230,232,245,1) 0%, rgba(241,242,250,1) 100%);
+
+// --- Font ---
+$font-base: 'Roboto', sans-serif;
+
+// --- Media Queries ---
+$mobile_land__640: "(min-width: 40em)";
+$tablet__768: "(min-width: 48em)";
+$tablet_land__1024: "(min-width: 64em)";
+$desktop__1280: "(min-width: 80em)";
+$large__screens__1440: "(min-width: 90em)";
+$full__screens__1600: "(min-width: 100em)";
+$HD__screens__1920: "(min-width: 120em)";
+
+/* ----- END OF VARIABLES ----- */
