@@ -61,10 +61,11 @@
       font-size: rem(12px);
       font-weight: 400;
       letter-spacing: 1px;
+      color: $white;
     }
 
-    &-anchor:visited {
-      color: $white;
+    &-anchor:hover {
+      color: #311e46;
     }
   }
 
