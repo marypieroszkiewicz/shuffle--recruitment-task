@@ -2,6 +2,7 @@
 .idea/*
 _assets/*
 .history/*
+.dist/
 node_modules/*
 .cache/*
 *.css.map
